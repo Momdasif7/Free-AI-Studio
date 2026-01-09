@@ -1,0 +1,7 @@
+{
+  "name": "Free AI Voice Generator",
+  "description": "A production-ready Text-to-Speech tool that uses native browser AI voices for high-quality, unlimited audio generation. No sign-up required.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
